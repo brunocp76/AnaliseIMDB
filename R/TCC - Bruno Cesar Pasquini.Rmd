@@ -15,7 +15,7 @@ library(patchwork)
 library(tidyverse)
 library(ggthemes)
 library(ggdark)
-library(GGally)
+# library(GGally)
 library(plotly)
 
 imdb <- read_rds("../dados/imdb.rds")
